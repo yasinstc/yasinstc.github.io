@@ -1,0 +1,8 @@
+#game-canvas {
+    background: #ddd;
+    border: 1px solid #ccc;
+}
+
+.opacity-2 {
+    opacity: 0.2;
+}
